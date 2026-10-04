@@ -147,7 +147,7 @@
                 title: "AGHAM Organization Shirt",
                 category: "poloshirts",
                 categoryName: "Polo Shirts",
-                image: "public/images/merchandise/AGHAM Org Shirt.png",
+                image: "public/images/merchandise/AGHAM Org shirt.png",
                 description: "An organization shirt designed a school organization related to Science, Technology and Engineering."
             },
             {
@@ -155,7 +155,7 @@
                 title: "Boiling Rock Bandits",
                 category: "tshirts",
                 categoryName: "T-Shirts",
-                image: "public/images/merchandise/Boiling Rock.png",
+                image: "public/images/merchandise/boiling rock.png",
                 description: "A vibrant jersey shirt designed for the Boiling Rock Bandits, featuring a bold graphic and energetic design."
             },
             {
@@ -163,7 +163,7 @@
                 title: "College of Informatics and Computing Sciences (CICS) Shirt",
                 category: "poloshirts",
                 categoryName: "Polo Shirts",
-                image: "public/images/merchandise/CICS org Shirt.png",
+                image: "public/images/merchandise/cics org shirt.png",
                 description: "An organization shirt designed for the College of Informatics and Computing Sciences, featuring a professional design and the institution's branding."
             },
             {
@@ -171,7 +171,7 @@
                 title: "College of Informatics and Computing Sciences (CICS) Shirt",
                 category: "poloshirts",
                 categoryName: "Polo Shirts",
-                image: "public/images/merchandise/CICS Shirt 2.jpg",
+                image: "public/images/merchandise/cics shirt 2.jpg",
                 description: "An organization shirt designed for the College of Informatics and Computing Sciences, featuring a professional design and the institution's branding."
             },
             {
@@ -179,7 +179,7 @@
                 title: "EMERGE V.7.0 Event Shirt",
                 category: "tshirts",
                 categoryName: "T-Shirts",
-                image: "public/images/merchandise/EMERGE shirt.jpg",
+                image: "public/images/merchandise/emerge shirt.jpg",
                 description: "An event shirt designed for the EMERGE V.7.0, a student leadership conference."
             },
             {
@@ -259,7 +259,7 @@
                 title: "FUEL'D Bucket Hat",
                 category: "others",
                 categoryName: "Bucket Hats",
-                image: "public/images/merchandise/FUELD hat 2.png",
+                image: "public/images/merchandise/fueld hat 2.png",
                 description: "FUEL'D is a student-led merchandise line for petroleum engineering students."
             },
             {
@@ -267,7 +267,7 @@
                 title: "FUEL'D Bucket Hat",
                 category: "others",
                 categoryName: "Bucket Hats",
-                image: "public/images/merchandise/FUELD hat 3.png",
+                image: "public/images/merchandise/fueld hat 3.png",
                 description: "FUEL'D is a student-led merchandise line for petroleum engineering students."
             },
             {
@@ -275,7 +275,7 @@
                 title: "FUEL'D Bucket Hat",
                 category: "others",
                 categoryName: "Bucket Hats",
-                image: "public/images/merchandise/FUELD hat 1.png",
+                image: "public/images/merchandise/fueld hat 1.png",
                 description: "FUEL'D is a student-led merchandise line for petroleum engineering students."
             },
             {
@@ -283,7 +283,7 @@
                 title: "FUEL'D Tote Bag",
                 category: "totebags",
                 categoryName: "Tote Bags",
-                image: "public/images/merchandise/FUELD tote 1.png",
+                image: "public/images/merchandise/fueld tote 1.png",
                 description: "FUEL'D is a student-led merchandise line for petroleum engineering students."
             },
             {
@@ -291,7 +291,7 @@
                 title: "FUEL'D Wristlet Lanyard",
                 category: "others",
                 categoryName: "Wristlet Lanyards",
-                image: "public/images/merchandise/FUELD wristlet.png",
+                image: "public/images/merchandise/fueld wristlet.png",
                 description: "FUEL'D is a student-led merchandise line for petroleum engineering students."
             }
         ];
