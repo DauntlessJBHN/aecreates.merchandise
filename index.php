@@ -259,7 +259,7 @@
                 title: "FUEL'D Bucket Hat",
                 category: "others",
                 categoryName: "Bucket Hats",
-                image: "public/images/merchandise/FUELD hat 2.png",
+                image: "public/images/merchandise/fueld hat 2.png",
                 description: "FUEL'D is a student-led merchandise line for petroleum engineering students."
             },
             {
